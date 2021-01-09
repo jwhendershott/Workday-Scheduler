@@ -7,7 +7,7 @@ var currentTime = m.hour();
 
 // adding clock to currentDay id
 function clock() {
-  var dateString = moment().format('MMMM Do YYYY, h:mm:ss a');
+  var dateString = moment().format("MMM Do YY");
   $('#currentDay').html(dateString);
 }
 
