@@ -50,9 +50,6 @@ $.each($('.time-block'), function(index, value) {
 });
 
 console.log(currentTime);
-console.log(currentTime);
-console.log(currentTime);
-console.log(currentTime);
 
 if (currentTime >=0 && currentTime < 9){
   localStorage.clear();
