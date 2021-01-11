@@ -8,8 +8,10 @@
 
 https://jwhendershott.github.io/Workday-Scheduler/
 
-
-
+An application that allows the user to view time blocks for business hours color coded for past, present, and future.
+* When the user clicks the time block, the user is able to enter an event
+* When the user clicks the save button, the event is saved in local storage
+* Saved changes persist on page refresh
 
 ## Credits
 
